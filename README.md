@@ -11,7 +11,7 @@ Também atuo como People Development Manager, unindo experiência técnica e est
 
 ## 🏆 Alguns resultados
 - Redução de 86,7% no tempo de Discovery com aplicação de IA Generativa (CI&T)
-- Aumento de 35% na usabilidade validado por testes de usuário na jornada de agendamento do Grupo Fleury (IBM)
+- Aumento de 33,4% na usabilidade validado por testes de usuário na jornada de agendamento do Grupo Fleury (IBM)
 - 27% de eficiência em atendimento a áreas de negócio (B3)
 
 ## 💼 Experiência
