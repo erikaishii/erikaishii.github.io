@@ -10,8 +10,8 @@ UX Designer com mais de 25 anos de experiência transformando desafios complexos
 Também atuo como People Development Manager, unindo experiência técnica e estratégica ao desenvolvimento de outras designers.
 
 ## 🏆 Alguns resultados
-- Redução no tempo de Discovery com aplicação de IA Generativa (CI&T)
-- Aumento de usabilidade validado por testes de usuário na jornada de agendamento do Grupo Fleury (IBM)
+- Redução de 86,7% no tempo de Discovery com aplicação de IA Generativa (CI&T)
+- Aumento de 35% na usabilidade validado por testes de usuário na jornada de agendamento do Grupo Fleury (IBM)
 - 27% de eficiência em atendimento a áreas de negócio (B3)
 
 ## 💼 Experiência
@@ -21,7 +21,7 @@ Também atuo como People Development Manager, unindo experiência técnica e est
 - **Front-end Team Lead** — B3 (2011 - 2016)
 
 ## 🛠️ Principais competências
-`Jornada do Cliente` `Design de Serviços` `Design de Interface do Usuário` `UX Research` `Figma`
+`Designer Estratégico` `Design de Serviços` `Customer Experience` `UX Research` 
 
 ## 🎓 Formação
 - Pós-graduação em Novas Tecnologias, Transformação Digital e Agilidade — FIA Business School
@@ -30,6 +30,3 @@ Também atuo como People Development Manager, unindo experiência técnica e est
 ## 📫 Contato
 - ✉️ Email: erika.ishii00@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/eishii](https://www.linkedin.com/in/eishii)
-
----
-*Página feita com 💜 usando GitHub Pages*
